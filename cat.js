@@ -52,11 +52,8 @@ function generateMessage(noCount) {
     "Pookie please",
     "Don't do this to me :(",
     "You're breaking my heart",
-    "I'm gonna cry...",
-    "Bruh really?",
-    "Think it again please:<",
-    "Come on",
-    "GO CLICK THE YES, IM FORCING YOU",
+    "PENCET AJA ITU YES NYA",
+    ,
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
